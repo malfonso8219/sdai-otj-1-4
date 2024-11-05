@@ -1,0 +1,40 @@
+.main-title {
+    text-align: center;
+    font-size: 100px;
+    color: darkgreen;
+}
+
+body {
+    background-color: burlywood;
+}
+
+.menu {
+    text-align: center;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: darkgreen;
+}
+
+p {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: indigo;
+}
+
+.hours {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.span {
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.li {
+    text-align: center;
+}
