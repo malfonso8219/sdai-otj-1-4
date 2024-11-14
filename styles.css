@@ -16,16 +16,16 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
     color: blue;
-    padding: 1.5em 2em 1.5em 2em;
-    margin: 1.25em;
+    padding: 1em;
+    margin: 1em;
 }
 
 p {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     color: indigo;
-    padding: 1em 1.5em 1em 1.5em;
-    margin: 1.25em;
+    padding: 1rem;
+    margin: 1em;
 }
 
 .hours {
@@ -43,6 +43,6 @@ h3 {
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     color: crimson;
-    padding: 1.5em 2em 1.5em 2em;
-    margin: 1.25em;
+    padding: 1em;
+    margin: 1em;
 }
