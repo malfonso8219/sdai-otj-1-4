@@ -46,3 +46,9 @@ h3 {
     padding: 1em;
     margin: 1em;
 }
+
+.image1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
